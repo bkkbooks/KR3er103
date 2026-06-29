@@ -1,0 +1,337 @@
+canonical_identifier: bkk:krp/KR3er103/v1
+canonical_location: https://kanripo.org/bkk/KR3er103/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫津一筏
+  identifiers:
+    krp: KR3er103
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er103.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3er103_000.yaml, hash: 'sha256:0ae0c02f83d56a5a4e985739bd4c6b07e29b32b468fe10730004ceb131cdbf5e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er103_000.markers.yaml, hash: 'sha256:e37c5c76da2eea2c9e857b1a30151bac39481f7841c5e4ff135d0d54ea275040'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d6.h2s1
+    span:
+    - body
+    - 0
+    - 4
+  label: 醫津一筏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 4
+    - 4
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 4
+    - 611
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d12.h2s1
+    span:
+    - body
+    - 611
+    - 617
+  label: 治病必求其本
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 617
+    - 650
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d78.h2s1
+    span:
+    - body
+    - 650
+    - 666
+  label: 有者求之無者求之盛者責之虛者責之
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 666
+    - 721
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 721
+    - 787
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 787
+    - 844
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 844
+    - 884
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d192.h2s1
+    span:
+    - body
+    - 884
+    - 896
+  label: 疏其氣血令其調達而致和平
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 896
+    - 964
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d210.h2s1
+    span:
+    - body
+    - 964
+    - 968
+  label: 適事爲故
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d214.h2s1
+    span:
+    - body
+    - 968
+    - 973
+  label: 反佐以取之
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d242.h2s1
+    span:
+    - body
+    - 973
+    - 981
+  label: 從少從多觀其事也
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 981
+    - 1011
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d256.h2s1
+    span:
+    - body
+    - 1011
+    - 1021
+  label: 必伏其所主而先其所因
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1021
+    - 1060
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d276.h2s1
+    span:
+    - body
+    - 1060
+    - 1080
+  label: 寒之而熱者取之陰熱之而寒者取之陽各求其屬
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d300.h2s1
+    span:
+    - body
+    - 1080
+    - 1088
+  label: 明知逆順正行無間
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1088
+    - 1121
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d306.h2s1
+    span:
+    - body
+    - 1121
+    - 1125
+  label: 推本陰陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1125
+    - 1171
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d324.h2s1
+    span:
+    - body
+    - 1171
+    - 1183
+  label: 食養盡之毋使過之傷其正也
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1183
+    - 1251
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d342.h2s1
+    span:
+    - body
+    - 1251
+    - 1259
+  label: 微妙在脉不可不察
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1259
+    - 1296
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d372.h2s1
+    span:
+    - body
+    - 1296
+    - 1304
+  label: 必先歲氣無伐天和
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1304
+    - 1353
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d390.h2s1
+    span:
+    - body
+    - 1353
+    - 1362
+  label: 有毒無毒固宐常制矣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er103_jc_000-d408.h2s1
+    span:
+    - body
+    - 1362
+    - 1364
+  label: 自跋
+  type: section
+  level: 1
+hash: sha256:d16288219a1183031bd59d7396bc5bc086d09dfef7bbe153899f3c2faa573d86
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
